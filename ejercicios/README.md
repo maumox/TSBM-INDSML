@@ -1,6 +1,4 @@
-# Ejercicios de práctica
-
-# TSBM - INDSML
+# Ejercicios de práctica TSBM - INDSML
 
 
 ### Notas:
