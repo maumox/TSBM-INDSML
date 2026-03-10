@@ -36,3 +36,6 @@ Pida al usuario que introduzca un par de coordenadas de la forma (x,y) y guarde 
 Escriba una función con texto como parámetro que divida el texto en palabras, y guarde el valor de frecuencia por cada palabra en un diccionario. Use las palabras dentro del texto como llaves. Utilice el siguiente texto:
 
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar pellentesque pharetra. Duis dignissim, elit in aliquet laoreet, nulla leo posuere nunc, nec auctor libero purus et est. Proin et nisl ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.”
+
+**Problema 3.**
+Ejercicio cubierto en clase de registros médicos.
