@@ -3,6 +3,6 @@ Welcome to the Introduction to Data Science and Machine Learning course offered 
 
 Instructor: MSc. Mauricio Morales
 
-Exercises in English are [available here](exercises/).
-
-Ejercicios en español [disponibles aquí](ejercicios/).
+# Practice exercises
+- Exercises in English are [available here](exercises/).
+- Ejercicios en español [disponibles aquí](ejercicios/).
