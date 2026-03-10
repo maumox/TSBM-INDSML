@@ -13,19 +13,19 @@ Una fábrica en Taiwán produce sensores. Los datos muestran que 5% de los senso
 **Problema 2.** 
 Una startup que desarrolla equipo médico tiene un 70% de probabilidad de lanzar su producto a tiempo. Si es lanzada a tiempo, tiene el 50% de probabilidad de hacerse rentable dentro del siguiente año. En caso de no lograrlo, la probabilidad de ser rentable dentro del siguiente año disminuye a un 20%.
 
-	¿Cuál es la probabilidad de que la startup lance su producto a tiempo y sea rentable dentro de un año?
-	¿Cuál es la probabilidad de que la startup sea rentable dentro de un año?
-	Si la startup es rentable, ¿Cuál es la probabilidad de que se haya lanzado a tiempo su producto?
+- ¿Cuál es la probabilidad de que la startup lance su producto a tiempo y sea rentable dentro de un año?
+- ¿Cuál es la probabilidad de que la startup sea rentable dentro de un año?
+- Si la startup es rentable, ¿Cuál es la probabilidad de que se haya lanzado a tiempo su producto?
 
 **Problema 3.** 
 La función de densidad de probabilidad de una variable aleatoria X es:
 
 f(x)=2x; 0≤x≤1
 
-	Verifique que es una función válida
-	Calcule el valor esperado de x,E[x]
-	Calcule E[x^2]
-	Calcule var[x]
+- Verifique que es una función válida
+- Calcule el valor esperado de x,E[x]
+- Calcule E[x^2]
+- Calcule var[x]
 
 ## Python
 
