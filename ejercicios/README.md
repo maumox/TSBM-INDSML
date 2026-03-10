@@ -3,7 +3,7 @@
 
 ### Notas:
 
-El objetivo de estos ejercicios es afianzar conceptos vistos en clase, aplicarlos, y profundizar en temas relacionados. En el examen deben esperar ejercicios que abarquen ambos temas cubiertos (y anteriores) en un ejercicio.
+El objetivo de estos ejercicios es afianzar conceptos vistos en clase, aplicarlos, y profundizar en temas relacionados. En el examen deben esperar ejercicios que abarquen ambos temas cubiertos (y anteriores).
 
 ## Incertidumbre
 
