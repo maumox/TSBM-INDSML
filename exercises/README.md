@@ -29,10 +29,10 @@ f(x)=2x; 0≤x≤1
 ## Python
 
 **Problem 1.**
-Ask the user to enter a pair of coordinates in the form (x,y) and store the information in a tuple. Write a function that calculates the Euclidean distance between two coordinates and uses it on the coordinates given by the user.
+Ask the user to enter a pair of coordinates in the form (x,y) and store the information in a tuple. Write a function that calculates the Euclidean distance between two coordinates and use it on the coordinates given by the user.
 
 **Problem 2.**
-Write a function with text as a parameter that divides the text into words and stores the frequency value for each word in a dictionary. Use the words within the text as braces. Use the following text:
+Write a function with text as a parameter that divides the text into words and stores the frequency value for each word in a dictionary. Use the words within the text as keys. Use the following text:
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pulvinar pellentesque pharetra. Duis dignissim, elit in aliquet laoreet, nulla leo posuere nunc, nec auctor libero purus et est. Proin et nisl ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.”
 
