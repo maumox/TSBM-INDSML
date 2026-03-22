@@ -21,16 +21,15 @@ You are provided with the following columns in the dataset:
 
 ## Steps to Solve the Problem:
 1.	Data Exploration:
-a.	Begin by exploring the data to understand its structure, distributions, and any potential relationships. Does it make sense that larger cars tend to be heavier and less fuel-efficient?
-b.	Create visualizations (e.g., scatter plots) to see if you can spot any patterns between weight and MPG.
+  a.	Begin by exploring the data to understand its structure, distributions, and any potential relationships. Does it make sense that larger cars tend to be heavier and less fuel-efficient?
+  b.	Create visualizations (e.g., scatter plots) to see if you can spot any patterns between weight and MPG.
 2.	Building Predictive Models:
-a.	Use linear regression to model the relationship between weight and MPG. What does the data suggest about the impact of weight on MPG?
-b.	Alternatively, you can use polynomial regression if the relationship seems non-linear. Does it improve model performance?
+  a.	Model the relationship between weight and MPG. What does the data suggest about the impact of weight on MPG?
 3.	Model Evaluation:
-a.	Evaluate the performance of your models. What’s the R-squared value? How does the model’s prediction compare to real-world expectations for cars of different sizes and weights?
-b.	Make sure to assess accuracy using other metrics like RMSE (Root Mean Squared Error) or MAE (Mean Absolute Error).
+  a.	Evaluate the performance of your models. How does the model’s prediction compare to real-world expectations for cars of different sizes and weights?
+  b.	Make sure to assess performance using the proper metric.
 4.	Business Application:
-a.	Based on your findings, provide actionable insights to the company. How can they use these predictions in future vehicle design? For example, if the company wants a car that weighs under 3,000 pounds and achieves over 30 MPG, can they use the model to find the optimal weight?
+  a.	Based on your findings, provide actionable insights to the company. How can they use these predictions in future vehicle design? For example, if the company wants a car that weighs under 3,000 pounds and achieves over 30 MPG, can they use the model to find the optimal weight?
 
 ## Business Strategy
 The car company is also considering offering a new line of hybrid cars that weigh slightly more than traditional cars but promise a significant increase in fuel efficiency. Your analysis will help determine the right balance between weight and MPG to meet both performance goals and sustainability targets.
