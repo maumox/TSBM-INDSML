@@ -11,7 +11,7 @@ Based on your analysis, the company wants to answer two critical questions:
 These insights will help the company optimize their vehicle designs for the new line of cars, balancing fuel efficiency with weight for the best possible performance.
 
 ## Data Overview:
-You are provided with the following columns in the dataset [Auto.csv](main/datasets):
+You are provided with the following columns in the dataset [Auto.csv](datasets):
 
 *	**MPG (Target Variable):** The number of miles the car can travel per gallon of fuel.
 *	**Weight (Feature Variable):** The weight of the car in pounds.
