@@ -2,7 +2,8 @@
 
 ## Scenario:
 You’ve recently joined a consulting firm that works with car manufacturers. The company is working on a new line of eco-friendly vehicles, and they need to make strategic decisions to optimize fuel efficiency (MPG) while keeping vehicle weight manageable for safety and performance. The company is currently analyzing a large dataset of existing car models, and they need your help to uncover important insights.
-Your Task:
+
+**Your Task:**
 The company has handed you a dataset containing car specifications from various manufacturers, including miles per gallon (MPG) and weight. The goal is to understand how the weight of a car affects its fuel efficiency (MPG), or conversely, how the fuel efficiency impacts its weight.
 Based on your analysis, the company wants to answer two critical questions:
 1.	Can we predict the fuel efficiency (MPG) of a car if we know its weight?
@@ -11,12 +12,19 @@ These insights will help the company optimize their vehicle designs for the new 
 
 ## Data Overview:
 You are provided with the following columns in the dataset [Auto.csv](datasets):
+
 •	MPG (Target Variable): The number of miles the car can travel per gallon of fuel.
+
 •	Weight (Feature Variable): The weight of the car in pounds.
+
 •	Horsepower: The car's engine horsepower.
+
 •	Engine Size: The size of the engine in liters.
+
 •	Cylinders: The number of cylinders in the engine.
+
 •	Year: The manufacturing year of the car.
+
 •	Brand: The make or manufacturer of the car.
 
 ## Steps to Solve the Problem:
@@ -36,5 +44,7 @@ The car company is also considering offering a new line of hybrid cars that weig
 
 ## Deliverables:
 •	Data Insights Report: Provide a summary of the relationship between weight and MPG, including visualizations and statistical insights.
+
 •	Predictive Model: Create a model that can predict either MPG from weight or weight from MPG, with clear evaluation of model performance.
+
 •	Business Recommendations: Based on your findings, make recommendations to the car manufacturer about the optimal trade-off between weight and fuel efficiency in future car designs.
